@@ -1,6 +1,7 @@
 # ===============================================================
 # Kin9Loui3's Personal Whitelist
 
+!Sites
 @@||joinhoney.com^$important
 155.254.21.250 joinhoney.com
 @@||graph.instagram.com^$important
@@ -84,6 +85,27 @@
 155.254.21.250 corefusion.xyz
 @@||dnscrypt.info^$important
 155.254.21.250 dnscrypt.info
+
+!Epic Games
+
+@@||tracking.epicgames.com^$important
+9.9.9.9 tracking.epicgames.com
+@@||eulatracking-public-service-prod.ak.epicgames.com^$important
+9.9.9.9 eulatracking-public-service-prod.ak.epicgames.com
+@@||eulatracking-public-service-prod06.ol.epicgames.com^$important
+9.9.9.9 eulatracking-public-service-prod06.ol.epicgames.com
+@@||datarouter.ol.epicgames.com^$important
+9.9.9.9 datarouter.ol.epicgames.com
+@@||api.epicgames.dev^$important
+9.9.9.9 api.epicgames.dev
+@@||turn.rtcp.on.epicgames.com^$important
+9.9.9.9 turn.rtcp.on.epicgames.com
+@@||events-public-service-live.ol.epicgames.com^$important
+9.9.9.9 events-public-service-live.ol.epicgames.com
+@@||events-public-service-live.ak.epicgames.com^$important
+9.9.9.9 events-public-service-live.ak.epicgames.com
+@@||turn.rtcp.on.epicgames.com^$important
+9.9.9.9 turn.rtcp.on.epicgames.com
 
 # Custom host records are listed here.
 
