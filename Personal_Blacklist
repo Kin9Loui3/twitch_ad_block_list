@@ -1,0 +1,45 @@
+# ===============================================================
+# Kin9Loui3's Personal Blacklist
+
+||google.com/logos/doodles/*^$important
+||ads.js^$important
+||pagead.js^$important
+||partner.ads.js^$important
+||ads.pinterest.com^$important
+||23.38.200.197^$important
+||ads.pinterest.com^$important
+||2.18.172.195^$important
+||media.net^$important
+||widgets.pinterest.com^$important
+||advertising-api-eu.amazon.com^$important
+||d.reddit.com^$important
+||analyticsengine.s3.amazonaws.com^$important
+||affiliationjs.s3.amazonaws.com^$important
+||metrics1.data.hicloud.com^$important
+||ads.facebook.com^$important
+||metrics5.data.hicloud.com ^$important
+||ctldl.windowsupdate.com^$important
+||graph.fbpigeon.com^$important
+||an.facebook.com^$important
+||gameitlive.com^$important
+||gameitlive.com/?h^$important
+||events.reddit.com^$important
+||events.redditmedia.com^$important
+||webpick-cdn.s3.us-west-2.amazonaws.com/slut1.gif^$important
+||eu.messenger-notify.xyz^$important
+||haffnetworkm2.com^$important
+||data.microsoft.com^$important
+||msftconnecttest.com^$important
+||azureedge.net^$important
+||activity.windows.com^$important
+||bingapis.com^$important
+||msedge.net^$important
+||assets.msn.com^$important
+||scorecardresearch.com^$important
+||edge.microsoft.com^$important
+||data.msn.com^$important
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
