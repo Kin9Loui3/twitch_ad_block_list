@@ -85,6 +85,12 @@
 155.254.21.250 corefusion.xyz
 @@||dnscrypt.info^$important
 155.254.21.250 dnscrypt.info
+@@||login.live.com^$important
+155.254.21.250 login.live.com
+@@||content.swncdn.com^$important
+155.254.21.250 content.swncdn.com
+@@||zcast.swncdn.com^$important
+155.254.21.250 zcast.swncdn.com
 
 !Epic Games
 
