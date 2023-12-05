@@ -87,6 +87,8 @@
 155.254.21.250 dnscrypt.info
 @@||login.live.com^$important
 155.254.21.250 login.live.com
+@@||login.live.com/oauth20_authorize.srf^$important
+155.254.21.250 login.live.com/oauth20_authorize.srf
 @@||content.swncdn.com^$important
 155.254.21.250 content.swncdn.com
 @@||zcast.swncdn.com^$important
