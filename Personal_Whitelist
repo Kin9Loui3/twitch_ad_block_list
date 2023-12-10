@@ -2,6 +2,7 @@
 # Kin9Loui3's Personal Whitelist
 
 !Sites
+@@||cryptostorm.is^$important
 @@||joinhoney.com^$important
 155.254.21.250 joinhoney.com
 @@||graph.instagram.com^$important
@@ -93,7 +94,9 @@
 155.254.21.250 content.swncdn.com
 @@||zcast.swncdn.com^$important
 155.254.21.250 zcast.swncdn.com
-@@||cryptostorm.is^$important
+@@||pastefg.hermietkreeft.site^$important
+155.254.21.250 pastefg.hermietkreeft.site
+
 
 !cryptostorm.is DNS
 
