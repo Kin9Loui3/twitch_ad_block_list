@@ -2,100 +2,54 @@
 # Kin9Loui3's Personal Whitelist
 
 !Sites
-@@||cryptostorm.is^$important
-@@||joinhoney.com^$important
-155.254.21.250 joinhoney.com
-@@||graph.instagram.com^$important
-@@||driverpack.io^$important
-155.254.21.250 driverpack.io
-@@||dl.driverpack.io^$important
-155.254.21.250 dl.driverpack.io
-@@||drp.su^$important
-155.254.21.250 drp.su
-@@||adups.com^$important
-155.254.21.250 adups.com
-@@||fota5p.adups.com^$important
-155.254.21.250 fota5p.adups.com
-@@||adups.cn^$important
-155.254.21.250 adups.cn
-@@||fota5p.adups.cn^$important
-155.254.21.250 fota5p.adups.cn
-@@||gx-corner.opera.com^$important
-155.254.21.250 gx-corner.opera.com
-@@||gx-corner.opera.com/#free_games^$important
-155.254.21.250 gx-corner.opera.com/#free_games
-@@||forestspringfamilycampground.com^$important
-155.254.21.250 gx-corner.opera.com
-@@||cdn.discordapp.com^$important
-155.254.21.250 cdn.discordapp.com
-@@||itch.io^$important^$important
-155.254.21.250 itch.io
-@@||1337x.to^$important^$important
-155.254.21.250 1337x.to
-@@||rarbg.to^$important^$important
-155.254.21.250 rarbg.to
-@@||oauth2.opera-api.com^$important
-155.254.21.250 oauth2.opera-api.com
-@@||auth.opera.com^$important
-155.254.21.250 auth.opera.com
-@@||gainslinger.com^$important
-155.254.21.250 gainslinger.com
-@@||i0.wp.com/gainslinger.com^$important
-155.254.21.250 i0.wp.com/gainslinger.com
-@@||gainslingertestdocs.s3.us-west-1.amazonaws.com^$important
-155.254.21.250 gainslingertestdocs.s3.us-west-1.amazonaws.com
-@@||www.target.com^$important
-155.254.21.250 target.com
-@@||coastalcarolinawomenssoccercamps.com^$important
-155.254.21.250 coastalcarolinawomenssoccercamps.com
-@@||puresoftapps-nvidia.blogspot.com^$important
-155.254.21.250 puresoftapps-nvidia.blogspot.com
-@@||fitgirl-repacks.site^$important
-155.254.21.250 fitgirl-repacks.site
-@@||api.trainerize.com^$important
-155.254.21.250 api.trainerize.com
-@@||etsy.com^$important
-155.254.21.250 etsy.com
-@@||igg-games.com^$important
-155.254.21.250 igg-games.com
-@@||fbcdn.net^$important
-155.254.21.250 fbcdn.net
-@@||reddit.com^$important
-155.254.21.250 reddit.com
-@@||gog.com^$important
-155.254.21.250 gog.com
-@@||promo.legacygames.com^$important
-155.254.21.250 promo.legacygames.com
-@@||oxy.cloud^$important
-155.254.21.250 oxy.cloud
-@@||oxy.name^$important
-155.254.21.250 oxy.name
-@@||deviantart.com^$important
-155.254.21.250 deviantart.com
-@@||1337x.to^$important
-155.254.21.250 1337x.to
-@@||itch.io^$important
-155.254.21.250 itch.io
-@@||download.visualstudio.microsoft.com^$important
-155.254.21.250 download.visualstudio.microsoft.com
-@@||rargb.to^$important
-155.254.21.250 rargb.to
-@@||rargb.tw^$important
-155.254.21.250 rargb.tw
-@@||corefusion.xyz^$important
-155.254.21.250 corefusion.xyz
-@@||dnscrypt.info^$important
-155.254.21.250 dnscrypt.info
-@@||login.live.com^$important
-155.254.21.250 login.live.com
-@@||login.live.com/oauth20_authorize.srf^$important
-155.254.21.250 login.live.com/oauth20_authorize.srf
-@@||content.swncdn.com^$important
-155.254.21.250 content.swncdn.com
-@@||zcast.swncdn.com^$important
-155.254.21.250 zcast.swncdn.com
-@@||pastefg.hermietkreeft.site^$important
-155.254.21.250 pastefg.hermietkreeft.site
+@@||cryptostorm.is^
+@@||joinhoney.com^
+@@||graph.instagram.com^
+@@||driverpack.io^
+@@||dl.driverpack.io^
+@@||drp.su^
+@@||adups.com^
+@@||fota5p.adups.com^
+@@||adups.cn^
+@@||fota5p.adups.cn^
+@@||gx-corner.opera.com^
+@@||gx-corner.opera.com/#free_games^
+@@||forestspringfamilycampground.com^
+@@||cdn.discordapp.com^
+@@||itch.io^^
+@@||1337x.to^^
+@@||rarbg.to^^
+@@||oauth2.opera-api.com^
+@@||auth.opera.com^
+@@||gainslinger.com^
+@@||i0.wp.com/gainslinger.com^
+@@||gainslingertestdocs.s3.us-west-1.amazonaws.com^
+@@||www.target.com^
+@@||coastalcarolinawomenssoccercamps.com^
+@@||puresoftapps-nvidia.blogspot.com^
+@@||fitgirl-repacks.site^
+@@||api.trainerize.com^
+@@||etsy.com^
+@@||igg-games.com^
+@@||fbcdn.net^
+@@||reddit.com^
+@@||gog.com^
+@@||promo.legacygames.com^
+@@||oxy.cloud^
+@@||oxy.name^
+@@||deviantart.com^
+@@||1337x.to^
+@@||itch.io^
+@@||download.visualstudio.microsoft.com^
+@@||rargb.to^
+@@||rargb.tw^
+@@||corefusion.xyz^
+@@||dnscrypt.info^
+@@||login.live.com^
+@@||login.live.com/oauth20_authorize.srf^
+@@||content.swncdn.com^
+@@||zcast.swncdn.com^
+@@||pastefg.hermietkreeft.site^
 
 
 !cryptostorm.is DNS
@@ -127,24 +81,15 @@
 
 !Epic Games
 
-@@||tracking.epicgames.com^$important
-9.9.9.9 tracking.epicgames.com
-@@||eulatracking-public-service-prod.ak.epicgames.com^$important
-9.9.9.9 eulatracking-public-service-prod.ak.epicgames.com
-@@||eulatracking-public-service-prod06.ol.epicgames.com^$important
-9.9.9.9 eulatracking-public-service-prod06.ol.epicgames.com
-@@||datarouter.ol.epicgames.com^$important
-9.9.9.9 datarouter.ol.epicgames.com
-@@||api.epicgames.dev^$important
-9.9.9.9 api.epicgames.dev
-@@||turn.rtcp.on.epicgames.com^$important
-9.9.9.9 turn.rtcp.on.epicgames.com
-@@||events-public-service-live.ol.epicgames.com^$important
-9.9.9.9 events-public-service-live.ol.epicgames.com
-@@||events-public-service-live.ak.epicgames.com^$important
-9.9.9.9 events-public-service-live.ak.epicgames.com
-@@||turn.rtcp.on.epicgames.com^$important
-9.9.9.9 turn.rtcp.on.epicgames.com
+@@||tracking.epicgames.com^
+@@||eulatracking-public-service-prod.ak.epicgames.com^
+@@||eulatracking-public-service-prod06.ol.epicgames.com^
+@@||datarouter.ol.epicgames.com^
+@@||api.epicgames.dev^
+@@||turn.rtcp.on.epicgames.com^
+@@||events-public-service-live.ol.epicgames.com^
+@@||events-public-service-live.ak.epicgames.com^
+@@||turn.rtcp.on.epicgames.com^
 
 # Custom host records are listed here.
 
