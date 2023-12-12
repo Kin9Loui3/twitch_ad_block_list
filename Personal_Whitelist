@@ -1,7 +1,8 @@
 # ===============================================================
 # Kin9Loui3's Personal Whitelist
 
-!Sites
+#Sites
+
 @@||cryptostorm.is^
 @@||joinhoney.com^
 @@||graph.instagram.com^
@@ -49,35 +50,7 @@
 @@||zcast.swncdn.com^
 @@||pastefg.hermietkreeft.site^
 
-
-!cryptostorm.is DNS
-
-23.19.117.55 #British Columbia Vancouver Canada
-167.114.84.132 #Montreal Quebec Canada
-64.42.181.227 #Vancouver Washington ST
-198.7.58.227 #Washington DC
-23.19.245.84 #Chicago IL
-23.19.245.88 #Chicago IL
-173.234.56.115 #Chicago IL
-172.107.199.19 #Chicago IL
-155.254.21.250 #Charlotte NC
-195.12.48.171 #Melbourne Beach FL
-104.255.175.2 #Melbourne Beach FL
-213.202.216.12 #Miami FL
-45.35.35.99 #Dallas TX
-209.58.147.36 #Dallas TX
-163.172.34.56 #Portland OR
-37.120.147.2 #Los Angeles CA
-172.107.199.19 #Los Angeles CA
-146.70.31.43 #Seattle WA
-
-!Quad9 DNS
-
-9.9.9.9
-149.112.112.112
-
-
-!Epic Games
+#Epic Games
 
 @@||tracking.epicgames.com^
 @@||eulatracking-public-service-prod.ak.epicgames.com^
