@@ -38,6 +38,7 @@
 ||scorecardresearch.com^$important
 ||edge.microsoft.com^$important
 ||data.msn.com^$important
+||http://^$important
 
 # Custom host records are listed here.
 
