@@ -68,9 +68,10 @@
 @@||bluemedialink.online/url-generator-1.php^
 @@||bluemedialink.lol/url-generator-1.php^
 @@||offline-maps.gvt1.com^
-@@://beacons*.gvt2.com^
+@@||://beacons*.gvt2.com^
 # To seemingly unbreak Nintendo Switch online games
-@@||104.198.251.169
+@@||104.198.251.169^
+@@||s.youtube.com^
 
 
 #Epic Games
