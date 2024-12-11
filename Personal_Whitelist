@@ -3,152 +3,152 @@
 
 #Sites
 
-127.0.0.1 cryptostorm.is^
-127.0.0.1 joinhoney.com^
-127.0.0.1 graph.instagram.com^
-127.0.0.1 driverpack.io^
-127.0.0.1 dl.driverpack.io^
-127.0.0.1 drp.su^
-127.0.0.1 adups.com^
-127.0.0.1 fota5p.adups.com^
-127.0.0.1 adups.cn^
-127.0.0.1 fota5p.adups.cn^
-127.0.0.1 gx-corner.opera.com^
-127.0.0.1 gx-corner.opera.com/#free_games^
-127.0.0.1 forestspringfamilycampground.com^
-127.0.0.1 cdn.discordapp.com^
-127.0.0.1 itch.io^
-127.0.0.1 img.itch.zone^
-127.0.0.1 1337x.to^
-127.0.0.1 rarbg.to^
-127.0.0.1 oauth2.opera-api.com^
-127.0.0.1 auth.opera.com^
-127.0.0.1 gainslinger.com^
-127.0.0.1 i0.wp.com/gainslinger.com^
-127.0.0.1 gainslingertestdocs.s3.us-west-1.amazonaws.com^
-127.0.0.1 target.com^
-127.0.0.1 coastalcarolinawomenssoccercamps.com^
-127.0.0.1 puresoftapps-nvidia.blogspot.com^
-127.0.0.1 fitgirl-repacks.site^
-127.0.0.1 api.trainerize.com^
-127.0.0.1 etsy.com^
-127.0.0.1 igg-games.com^
-127.0.0.1 fbcdn.net^
-127.0.0.1 reddit.com^
-127.0.0.1 gog.com^
-127.0.0.1 promo.legacygames.com^
-127.0.0.1 oxy.cloud^
-127.0.0.1 oxy.name^
-127.0.0.1 deviantart.com^
-127.0.0.1 download.visualstudio.microsoft.com^
-127.0.0.1 rargb.to^
-127.0.0.1 rargb.tw^
-127.0.0.1 corefusion.xyz^
-127.0.0.1 dnscrypt.info^
-127.0.0.1 login.live.com^
-127.0.0.1 login.live.com/oauth20_authorize.srf^
-127.0.0.1 content.swncdn.com^
-127.0.0.1 zcast.swncdn.com^
-127.0.0.1 pastefg.hermietkreeft.site^
-127.0.0.1 dlcdnets.asus.com^
-127.0.0.1 design.cricut.com^
-127.0.0.1 i.ebayimg.com^
-127.0.0.1 pics.ebaystatic.com^
-127.0.0.1 p.ebaystatic.com^
-127.0.0.1 secureir.ebaystatic.com^
-127.0.0.1 ir.ebaystatic.com^
-127.0.0.1 redditstatic.com^
-127.0.0.1 s2.pesk.top^
-127.0.0.1 pinterest.com^
-127.0.0.1 api.pinterest.com^
-127.0.0.1 i.pinimg.com^
-127.0.0.1 s.pinimg.com^
-127.0.0.1 analytics.restream.io^
-127.0.0.1 backend.events.restream.io^
-127.0.0.1 backend-analytics.restream.io^
-127.0.0.1 bluemedialink.online/url-generator-1.php^
-127.0.0.1 bluemedialink.lol/url-generator-1.php^
-127.0.0.1 bluemediadownload.quest^
-127.0.0.1 offline-maps.gvt1.com^
-127.0.0.1 ://beacons*.gvt2.com^
-127.0.0.1 wallpaperaccess.com^
-127.0.0.1 wallpapercave.com^
-127.0.0.1 s.youtube.com^
-127.0.0.1 affiliate-program.amazon.com^
-127.0.0.1 s0ft4pc.com^
-127.0.0.1 portable4pc.com^
-127.0.0.1 fcportables.com^
-127.0.0.1 karanpc.com^
-127.0.0.1 kolompc.com^
-127.0.0.1 diakov.net^
-127.0.0.1 lrepacks.net^
-127.0.0.1 api.cloudflareclient.com^
-127.0.0.1 pesktop.com^
-127.0.0.1 pesktop.com/en^
+@@||cryptostorm.is^
+@@||joinhoney.com^
+@@||graph.instagram.com^
+@@||driverpack.io^
+@@||dl.driverpack.io^
+@@||drp.su^
+@@||adups.com^
+@@||fota5p.adups.com^
+@@||adups.cn^
+@@||fota5p.adups.cn^
+@@||gx-corner.opera.com^
+@@||gx-corner.opera.com/#free_games^
+@@||forestspringfamilycampground.com^
+@@||cdn.discordapp.com^
+@@||itch.io^
+@@||img.itch.zone^
+@@||1337x.to^
+@@||rarbg.to^
+@@||oauth2.opera-api.com^
+@@||auth.opera.com^
+@@||gainslinger.com^
+@@||i0.wp.com/gainslinger.com^
+@@||gainslingertestdocs.s3.us-west-1.amazonaws.com^
+@@||target.com^
+@@||coastalcarolinawomenssoccercamps.com^
+@@||puresoftapps-nvidia.blogspot.com^
+@@||fitgirl-repacks.site^
+@@||api.trainerize.com^
+@@||etsy.com^
+@@||igg-games.com^
+@@||fbcdn.net^
+@@||reddit.com^
+@@||gog.com^
+@@||promo.legacygames.com^
+@@||oxy.cloud^
+@@||oxy.name^
+@@||deviantart.com^
+@@||download.visualstudio.microsoft.com^
+@@||rargb.to^
+@@||rargb.tw^
+@@||corefusion.xyz^
+@@||dnscrypt.info^
+@@||login.live.com^
+@@||login.live.com/oauth20_authorize.srf^
+@@||content.swncdn.com^
+@@||zcast.swncdn.com^
+@@||pastefg.hermietkreeft.site^
+@@||dlcdnets.asus.com^
+@@||design.cricut.com^
+@@||i.ebayimg.com^
+@@||pics.ebaystatic.com^
+@@||p.ebaystatic.com^
+@@||secureir.ebaystatic.com^
+@@||ir.ebaystatic.com^
+@@||redditstatic.com^
+@@||s2.pesk.top^
+@@||pinterest.com^
+@@||api.pinterest.com^
+@@||i.pinimg.com^
+@@||s.pinimg.com^
+@@||analytics.restream.io^
+@@||backend.events.restream.io^
+@@||backend-analytics.restream.io^
+@@||bluemedialink.online/url-generator-1.php^
+@@||bluemedialink.lol/url-generator-1.php^
+@@||bluemediadownload.quest^
+@@||offline-maps.gvt1.com^
+@@||://beacons*.gvt2.com^
+@@||wallpaperaccess.com^
+@@||wallpapercave.com^
+@@||s.youtube.com^
+@@||affiliate-program.amazon.com^
+@@||s0ft4pc.com^
+@@||portable4pc.com^
+@@||fcportables.com^
+@@||karanpc.com^
+@@||kolompc.com^
+@@||diakov.net^
+@@||lrepacks.net^
+@@||api.cloudflareclient.com^
+@@||pesktop.com^
+@@||pesktop.com/en^
 
 #To seemingly unbreak Nintendo Switch online games
 
-127.0.0.1 104.198.251.169^
+@@||104.198.251.169^
 
 #Rockstar Games
 
-127.0.0.1 tm-gta5-prod.ros.rockstargames.com^
+@@||tm-gta5-prod.ros.rockstargames.com^
 
 #Epic Games
 
-127.0.0.1 tracking.epicgames.com^
-127.0.0.1 eulatracking-public-service-prod.ak.epicgames.com^
-127.0.0.1 eulatracking-public-service-prod06.ol.epicgames.com^
-127.0.0.1 datarouter.ol.epicgames.com^
-127.0.0.1 api.epicgames.dev^
-127.0.0.1 turn.rtcp.on.epicgames.com^
-127.0.0.1 events-public-service-live.ol.epicgames.com^
-127.0.0.1 events-public-service-live.ak.epicgames.com^
-127.0.0.1 turn.rtcp.on.epicgames.com^
+@@||tracking.epicgames.com^
+@@||eulatracking-public-service-prod.ak.epicgames.com^
+@@||eulatracking-public-service-prod06.ol.epicgames.com^
+@@||datarouter.ol.epicgames.com^
+@@||api.epicgames.dev^
+@@||turn.rtcp.on.epicgames.com^
+@@||events-public-service-live.ol.epicgames.com^
+@@||events-public-service-live.ak.epicgames.com^
+@@||turn.rtcp.on.epicgames.com^
 
 #cryptostorm.is DNS
 
 #British Columbia Vancouver Canada
-127.0.0.1 23.19.117.55^
+@@||23.19.117.55^
 #Montreal Quebec Canada
-127.0.0.1 167.114.84.132^
+@@||167.114.84.132^
 #Vancouver Washington ST
-127.0.0.1 64.42.181.227^
+@@||64.42.181.227^
 #Washington DC
-127.0.0.1 198.7.58.227^
+@@||198.7.58.227^
 #Chicago IL
-127.0.0.1 23.19.245.84^
+@@||23.19.245.84^
 #Chicago IL
-127.0.0.1 23.19.245.88^
+@@||23.19.245.88^
 #Chicago IL
-127.0.0.1 173.234.56.115^
+@@||173.234.56.115^
 #Chicago IL
-127.0.0.1 172.107.199.19^
+@@||172.107.199.19^
 #Charlotte NC
-127.0.0.1 155.254.21.250^
+@@||155.254.21.250^
 #Melbourne Beach FL
-127.0.0.1 195.12.48.171^
+@@||195.12.48.171^
 #Melbourne Beach FL
-127.0.0.1 104.255.175.2^
+@@||104.255.175.2^
 #Miami FL
-127.0.0.1 213.202.216.12^
+@@||213.202.216.12^
 #Dallas TX
-127.0.0.1 45.35.35.99^
+@@||45.35.35.99^
 #Dallas TX
-127.0.0.1 209.58.147.36^
+@@||209.58.147.36^
 #Portland OR
-127.0.0.1 163.172.34.56^
+@@||163.172.34.56^
 #Los Angeles CA
-127.0.0.1 37.120.147.2^
+@@||37.120.147.2^
 #Los Angeles CA
-127.0.0.1 172.107.199.19^
+@@||172.107.199.19^
 #Seattle WA
-127.0.0.1 146.70.31.43^
+@@||146.70.31.43^
 
 #Quad9 DNS
 
-127.0.0.1 9.9.9.9^
-127.0.0.1 149.112.112.112^
+@@||9.9.9.9^
+@@||149.112.112.112^
 
 # Custom host records are listed here.
 
