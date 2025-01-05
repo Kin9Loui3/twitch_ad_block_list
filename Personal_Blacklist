@@ -35,7 +35,7 @@
 ||edge.microsoft.com^$important
 ||data.msn.com^$important
 ||analytics.pesktop.com^$important
-|optimizationguide-pa.googleapis.com/^$important
+||optimizationguide-pa.googleapis.com/^$important
 
 # D3ward Blocklist
 
