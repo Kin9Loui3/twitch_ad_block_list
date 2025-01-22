@@ -90,11 +90,14 @@
 
 #YouTube Fix for 59 Secs
 @@||youtube.com^
+@@||i.ytimg.com^
 @@||ytimg.com^
 @@||googlevideo.com^
 @@||googleusercontent.com^
 @@||gstatic.com^
+@@||youtube-nocookie.com^
 @@||youtubei.googleapis.com^
+@@||youtube-ui.l.google.com^
 @@||youtube.googleapis.com^
 @@||jnn-pa.googleapis.com^
 
