@@ -69,7 +69,6 @@
 @@||://beacons*.gvt2.com^
 @@||wallpaperaccess.com^
 @@||wallpapercave.com^
-@@||s.youtube.com^
 @@||affiliate-program.amazon.com^
 @@||s0ft4pc.com^
 @@||portable4pc.com^
@@ -89,6 +88,22 @@
 @@||dnslow.me^
 @@||cineby.app^
 @@||returnyoutubedislikeapi.com^
+
+#YouTube Fix for 59 Secs
+@@||s.ytimg.com^
+@@||www.youtube.com^
+@@||youtube.com^
+@@||googlevideo.com^
+@@||beacons.gvt2.com^
+@@||beacons.gcp.gvt2.com^
+@@||i.ytimg.com^
+@@||www.youtube-nocookie.com^
+@@||youtube-ui.l.google.com^
+@@||youtubei.googleapis.com^
+@@||doubleclick.net^
+@@||googleads.g.doubleclick.net^
+@@||static.doubleclick.net^
+@@||jnn-pa.googleapis.com^
 
 #To seemingly unbreak Nintendo Switch online games
 
