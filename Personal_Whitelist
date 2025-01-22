@@ -89,7 +89,13 @@
 @@||returnyoutubedislikeapi.com^
 
 #YouTube Fix for 59 Secs
-@@||jnn-pa.googleapis.com^
+@@||youtube.com^
+@@||ytimg.com^
+@@||googlevideo.com^
+@@||googleusercontent.com^
+@@||gstatic.com^
+@@||youtubei.googleapis.com^
+@@||youtube.googleapis.com^
 
 #To seemingly unbreak Nintendo Switch online games
 
