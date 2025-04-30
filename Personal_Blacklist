@@ -276,6 +276,20 @@
 ||ms4.applvn.com^$important
 ||ue.applvn.com^$important
 
+# Twitch AdBlock List
+
+||api.mixpanel.com^$important
+||spade.twitch.tv^$important
+||pubads.g.doubleclick.net^$important
+||sb.scorecardresearch.com^$important
+||video-weaver.sea01.his.ttvnw.net^$important
+||vaes.amazon-adsystem.com^$important
+||cdn-a.amazon-adsystem.com^$important
+||ad.doubleclick.net^$important
+||aax-us-east.amazon-adsystem.com^$important
+||s.amazon-adsystem.com^$important
+
+
 # Custom host records are listed here.
 
 
