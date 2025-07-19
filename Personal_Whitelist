@@ -103,7 +103,8 @@
 @@||protondb.com^
 @@||privacy.com^
 
-#CachyOS - US Closest Mirrors 1
+#CachyOS/Arch Mirrors and - US Closest Mirrors 
+
 @@||build.cachyos.org^
 @@||mirror.cachyos.org^
 @@||build.cachyos.org/repo^
@@ -117,8 +118,6 @@
 @@||cdn.cachyos.org^
 @@||mirror.scholarshub.world^
 @@||aur.archlinux.org^
-
-#CachyOS - US Closest Mirrors 2
 @@||mirror.scholarshub.world/repo^
 @@||cdn-1.cachyos.org^
 @@||cdn77.cachyos.org/repo^
@@ -127,7 +126,6 @@
 @@||cachyos.next-works.it/repo^
 @@||at.cachyos.org/repo^
 @@||cdn.cachyos.org/repo^
-@@||aur.cachyos.org/repo^
 @@||mirror.fast0ne.com/repo^
 @@||mirror.lesviallon.fr/cachy/repo^
 @@||de-nue.soulharsh007.dev/cachyos/repo^
@@ -138,29 +136,6 @@
 @@||mirror.limda.net/cachy/repo^
 @@||mirrors.ustc.edu.cn/cachyos/repo^
 @@||mirror.nju.edu.cn/cachyos/repo^
-
-#CachyOS - Mirrors 1
-@@||mirror.scholarshub.world/repo^
-@@||cdn-1.cachyos.org^
-@@||cdn77.cachyos.org/repo^
-@@||us.cachyos.org/repo^
-@@||mirror.cachyos.org/repo^
-@@||cachyos.next-works.it/repo^
-@@||at.cachyos.org/repo^
-@@||cdn.cachyos.org/repo^
-@@||aur.cachyos.org/repo^
-@@||mirror.fast0ne.com/repo^
-@@||mirror.lesviallon.fr/cachy/repo^
-@@||de-nue.soulharsh007.dev/cachyos/repo^
-@@||no.mirror.cx/cachyos/repo^
-@@||cachyos.doridian.net/repo^
-@@||mirror.funami.tech/cachy/repo^
-@@||sg-sin.soulharsh007.dev/cachyos^
-@@||mirror.limda.net/cachy/repo^
-@@||mirrors.ustc.edu.cn/cachyos/repo^
-@@||mirror.nju.edu.cn/cachyos/repo^
-
-CachyOS - Mirrors 2
 @@||ca.mirrors.cicku.me/archlinux^
 @@||cdnmirror.com/archlinux^
 @@||mirror.osbeck.com/archlinux^
@@ -172,11 +147,6 @@ CachyOS - Mirrors 2
 @@||at.mirrors.cicku.me/archlinux^
 @@||mirror.abderraziq.com/archlinux^
 @@||br.mirrors.cicku.me/archlinux^
-@@||es.mirrors.cicku.me/archlinux^
-@@||br.mirrors.cicku.me/archlinux^
-@@||at.mirrors.cicku.me/archlinux^
-@@||ch.mirrors.cicku.me/archlinux^
-@@||edgeuno-bog2.mm.fcix.net/archlinux^
 @@||edgeuno-bog2.mm.fcix.net/archlinux^
 @@||jp.mirrors.cicku.me/archlinux^
 @@||fi.arch.niranjan.co^
@@ -190,21 +160,15 @@ CachyOS - Mirrors 2
 @@||ro.arch.niranjan.co^
 @@||mirror.leitecastro.com/archlinux^
 @@||mirror.juniorjpdj.pl/archlinux^
-@@||mirror.abderraziq.com/archlinux^
-@@||mirror.leitecastro.com/archlinux^
 @@||mirror.hostiko.network/archlinux^
 @@||mirror.tedwall.se/archlinux^
 @@||archlinux.koyanet.lv/archlinux^
 @@||mirror.cedia.org.ec/archlinux^
 @@||au.mirrors.cicku.me/archlinux^
 @@||muug.ca/mirror/archlinux^
-@@||archlinux.koyanet.lv/archlinux^
 @@||elmirror.cl/archlinux^
 @@||mirror.neuf.no/archlinux^
-@@||us.arch.niranjan.co^
-@@||mirrors.atviras.lt/archlinux^
 @@||mirrors.pidginhost.com/arch^
-@@||mirror.hostiko.network/archlinux^
 @@||quantum-mirror.hu/mirrors/pub/archlinux^
 @@||mirror.anquan.cl/archlinux^
 @@||mirror.archlinux.no^
@@ -219,26 +183,28 @@ CachyOS - Mirrors 2
 @@||mirror.lcarilla.de/archlinux^
 @@||mirror.freedif.org/archlinux^
 @@||mirror.ditatompel.com/archlinux^
-@@||mirror.nw-sys.ru/archlinux^
 @@||ftp.sh.cvut.cz/arch^
 @@||gsl-syd.mm.fcix.net/archlinux^
 @@||repo.jing.rocks/archlinux^
 @@||mirrors.ustc.edu.cn/archlinux^
 @@||sg.arch.niranjan.co^
 @@||in.arch.niranjan.co^
-@@||mirror.ditatompel.com/archlinux^
 
 #Bank
+
 @@||edge.truist.com^
 
 #Firefox
+
 @@||addons.mozilla.org^
 
 #Mullvad
+
 @@||mullvad.net^
 @@||leta.mullvad.net^
 
 #Google
+
 @@||imap.gmail.com:993^
 
 #Waydroid
@@ -246,6 +212,7 @@ CachyOS - Mirrors 2
 @@||waydroid.org^
 
 #YouTube Fix for 59 Secs
+
 @@||youtube.com^
 @@||i.ytimg.com^
 @@||ytimg.com^
@@ -287,6 +254,7 @@ CachyOS - Mirrors 2
 @@||turn.rtcp.on.epicgames.com^
 
 #Routers
+
 @@||corefusion.xyz^
 @@||divested.dev^
 
