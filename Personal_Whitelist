@@ -112,6 +112,7 @@
 @@||build.cachyos.org^$important
 @@||mirror.cachyos.org^$important
 @@||build.cachyos.org/repo^$important
+@@||aur.archlinux.org/rpc^$important
 @@||aur.cachyos.org/repo^$important
 @@||nl.cachyos.org^$important
 @@||us.cachyos.org^$important
