@@ -1,0 +1,18 @@
+! Cosmetic Rules for YouTube Ad Banners and Popups
+www.youtube.com##div#player-ads
+www.youtube.com##div#masthead-ad
+www.youtube.com##div.ytp-ad-overlay-container
+www.youtube.com##div.ytp-ad-image-overlay
+www.youtube.com##ytd-merch-shelf-renderer
+www.youtube.com##ytd-in-feed-ad-layout-renderer
+www.youtube.com##tp-yt-paper-dialog:has(a[href*="support.google.com"])
+www.youtube.com##tp-yt-iron-overlay-backdrop.opened
+
+! Scriptlets for Anti-Adblock
+www.youtube.com#%#//scriptlet('set-constant', 'yt.config_.EXPERIMENT_FLAGS', '{"adblock_warning_enabled": false}')
+www.youtube.com#%#//scriptlet('remove-node', 'tp-yt-paper-dialog', 'a[href*="support.google.com"]')
+
+! Network Rules for Ads
+||youtube.com/*get_video_info
+||youtube.com/*ad_
+||youtube.com/*ads
