@@ -1,0 +1,61 @@
+# YouTube Freedom – AdGuard Home Filter List
+# Description: Blocks YouTube ads, hides ad banners, and mitigates anti-adblock mechanisms.
+# Based on UserScript by YoussBehh[](https://github.com/youssbehh/youtube-freedom)
+# Version: 1.0
+# Compatible with: AdGuard Home
+
+# Block YouTube ad-related network requests
+||ads.youtube.com^$important
+||youtube.com/api/stats/ads^$important
+||youtube.com/pagead^$important
+||youtube.com/get_midroll_info^$important
+||youtube.com/ptracking^$important
+||googlevideo.com/videoplayback?*adformat^$important
+||googlevideo.com/videoplayback?*adunit^$important
+||s.youtube.com/api/stats/qoe^$important
+||youtube.com/ad_*^$important
+
+# Block anti-adblock scripts
+||youtube.com/s/desktop/*/jsbin/*/web-player_ias_vfl*.js^$important
+||youtube.com/s/player/*/player_ias*.js^$important
+
+# Cosmetic rules to hide ad-related DOM elements
+www.youtube.com##ytd-in-feed-ad-layout-renderer
+www.youtube.com##ytd-ad-slot-renderer
+www.youtube.com###player-ads
+www.youtube.com###masthead-ad
+www.youtube.com##.ytp-featured-product
+www.youtube.com##ytd-companion-slot-renderer
+www.youtube.com##ytd-player-legacy-desktop-watch-ads-renderer
+www.youtube.com###related ytd-rich-item-renderer:has(ytd-ad-slot-renderer)
+www.youtube.com###related ytd-rich-item-renderer:has([class*="ad"])
+www.youtube.com###related ytd-rich-item-renderer:has([class*="sponsored"])
+www.youtube.com##.ytp-ad-module
+www.youtube.com##.ytp-ad-text
+www.youtube.com##.ytp-ad-preview
+www.youtube.com##.ytp-ad-skip-button
+www.youtube.com##.ytp-ad-skip-button-modern
+www.youtube.com##.ytp-skip-ad-button
+www.youtube.com##.ytp-ad-overlay-close-button
+
+# Mobile YouTube cosmetic rules
+m.youtube.com##ytd-in-feed-ad-layout-renderer
+m.youtube.com##ytd-ad-slot-renderer
+m.youtube.com###player-ads
+m.youtube.com##.ytp-featured-product
+m.youtube.com##ytd-companion-slot-renderer
+m.youtube.com##.ytp-ad-module
+m.youtube.com##.ytp-ad-text
+m.youtube.com##.ytp-ad-preview
+m.youtube.com##.ytp-ad-skip-button
+m.youtube.com##.ytp-ad-skip-button-modern
+m.youtube.com##.ytp-skip-ad-button
+m.youtube.com##.ytp-ad-overlay-close-button
+
+# Hide anti-adblock popups
+www.youtube.com##.ytp-error-content
+www.youtube.com##.ytp-error
+www.youtube.com##[aria-label*="age-restricted"]
+m.youtube.com##.ytp-error-content
+m.youtube.com##.ytp-error
+m.youtube.com##[aria-label*="age-restricted"]
