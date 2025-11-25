@@ -1,0 +1,24 @@
+! AGH Bypass Block List - Derived from LOLZ FIXED LINKS + Anti-Tracker
+! Blocks suspicious scripts/cookies that flag you as a bot
+||google.com/recaptcha$script
+||youtube.com/s/player/*/player_ias/vfl$script
+||googletagmanager.com/gtag/js$script
+||youtube.com/api/stats/$script
+||gstatic.com/recaptcha$script
+||youtube-nocookie.com/embed$domain=youtube.com
+
+! Rewrite mirror/redirect links to direct YouTube (mimics LOLZ script logic)
+||mirror*.lolz.guru^$replace=/https://www.youtube.com/
+||short*.ytimg.com^$replace=/https://www.youtube.com/
+||redirect*.google.com^$replace=/https://www.youtube.com/
+
+! Cookie blocks for trusted status (prevents AGH re-trigger)
+youtube.com##+js(set, SOCS, CAESHAgBEhJnd3NfMw)
+||youtube.com^$cookie=SOCS
+
+! General anti-fingerprinting (common AGH cause)
+||googleapis.com/g/animation$script
+||doubleclick.net/instream$script
+
+! Exclude if signed in (avoids breaking legit use)
+youtube.com#@#script:has-text(recaptcha):style(display: none !important;)
