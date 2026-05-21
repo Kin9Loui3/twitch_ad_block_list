@@ -242,6 +242,10 @@
 #Steam
 
 @@||steampowered.com^$important
+@@||api.steampowered.com^$important
+@@||steamcommunity.com^$important
+@@||discovery.steamserver.net^$important
+@@||steamstatic.com^$important
 @@||crash.steampowered.com^$important
 
 
