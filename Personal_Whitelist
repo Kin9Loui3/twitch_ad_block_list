@@ -66,9 +66,10 @@
 @@||analytics.restream.io^$important
 @@||backend.events.restream.io^$important
 @@||backend-analytics.restream.io^$important
-@@||bluemedialink.online/url-generator-1.php^$important
-@@||bluemedialink.lol/url-generator-1.php^$important
+@@||bluemedialink.online^$important
+@@||bluemedialink.lol^$important
 @@||bluemediadownload.quest^$important
+@@||bluemediafiles.com^$important
 @@||offline-maps.gvt1.com^$important
 @@||://beacons*.gvt2.com^$important
 @@||wallpaperaccess.com^$important
@@ -133,8 +134,6 @@
 @@||filedownbyapk.cc^$important
 @@||openuserjs.org^$important
 @@||1377x.to^$important
-@@||bluemediafiles.com^$important
-@@||bluemediafiles.com/url-generator.php^$important
 @@||airbnb-photos.s3.amazonaws.com^$important
 @@||airbnb.com^$important
 @@||a0.muscache.com^$important
